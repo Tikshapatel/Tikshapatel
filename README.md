@@ -1,7 +1,7 @@
 # Tikshapatel
 Config file for my GitHub profile
 # 💫 About Me:
-🔭 Currently working as a freelancer on Upwork <br> 🌱 Focusing on creating impactful web applications that improve lives  <br>❓ Ask me about anything related to MERN stack and related technologies <br> 📫 Reach me at: patel.tiksha27@outlook.com <br>⚡ Fun fact
+🔭 Currently working as a freelancer on Upwork <br> 🌱 Focusing on creating impactful web applications that improve lives  <br>❓ Ask me about anything related to MERN stack and associated technologies <br> 📫 Reach me at: patel.tiksha27@outlook.com <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
