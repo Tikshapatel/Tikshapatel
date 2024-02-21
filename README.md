@@ -6,7 +6,7 @@ Config file for my GitHub profile
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiksha-patel-6ab037119/) 
-[![Upwork]](https://www.upwork.com/freelancers/~01ff5c1d5909dc8a0a#) ![image](https://github.com/Tikshapatel/Tikshapatel/assets/109059572/3f9a13b5-8581-4209-9ec0-23983a0197e5)
+[![Upwork]](https://www.upwork.com/freelancers/~01ff5c1d5909dc8a0a#) 
 
 
 # 💻 Tech Stack:
