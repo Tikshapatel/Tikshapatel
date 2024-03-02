@@ -8,7 +8,7 @@ Config file for my GitHub profile
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiksha-patel-6ab037119/) 
 [![Upwork](https://img.shields.io/badge/Upwork-%23172B4D.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ff5c1d5909dc8a0a#)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tiksha_85377) 
-[![Leetcode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Tiksha_27/).
+[![Leetcode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Tiksha_27/)
 
 
 
